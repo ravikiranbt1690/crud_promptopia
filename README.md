@@ -1,4 +1,4 @@
-## AI Prompt Sharing Application
+## Next.js 14 AI Prompt Sharing Application
 
 ## Overview
 
